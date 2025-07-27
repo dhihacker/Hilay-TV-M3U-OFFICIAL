@@ -15,8 +15,6 @@ Hilay TV M3U Playlist Generator
 <p align="center">
 
    
-         alt="Gitter">
-  
   
    
   </a>
